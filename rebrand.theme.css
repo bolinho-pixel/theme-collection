@@ -34,7 +34,7 @@
 
   --rs-phone-visible: block; /* (não modificar - pode estragar o layout) */
 
-  --badge-size: 22px; /*tamanho dos emblemas (discord 18px, tema 22px)*/
-  --badge-margin: 1.5px; /*(não modificar) discord 2px, tema 1.5px*/
-  --badges-everywhere-size: 15px; /*tamanho dos emblemas se você usa "badgeseverywhere". (padrão = 15px)*/
+  --badge-size: 22px; /* Tamanho dos emblemas (discord 18px, tema 22px)*/
+  --badge-margin: 1.5px; /* (não modificar) discord 2px, tema 1.5px*/
+  --badges-everywhere-size: 15px; /* Tamanho dos emblemas se você usa "badgeseverywhere". (padrão = 15px)*/
 }
