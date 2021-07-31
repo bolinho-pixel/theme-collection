@@ -28,9 +28,9 @@
   --rs-idle-color: #faa61a; /* Cor do ausente (modificar pode estragar o layout) */
   --rs-dnd-color: #f04747; /* Cor do não pertube (modificar pode estragar o layout) */
   --rs-offline-color: #636b75; /* Cor do offline (modificar pode estragar o layout) */
-  --rs-streaming-color: #643da7; /* Cor de transmissão (modificar vai tirar todo o propósito da cor) */
+  --rs-streaming-color: #643da7; /* Cor de transmissão (modificar vai tirar todo o propósito da cor!) */
   --rs-invisible-color: #747f8d; /* Cor do invisível - Nota: isso só vai aparecer pra sua invisibilidade, na dos outros é impossível */
-  --rs-phone-color: var(--rs-online-color); /* Cor do ícone de celular (modificar vai tirar todo o propósito da cor) */
+  --rs-phone-color: var(--rs-online-color); /* Cor do ícone de celular (modificar vai tirar todo o propósito da cor!) */
 
   --rs-phone-visible: block; /* (não modificar - pode estragar o layout) */
 
