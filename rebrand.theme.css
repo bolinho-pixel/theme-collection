@@ -3,46 +3,7 @@
 * @author bolinho
 * @description Deixa o Discord com um ar profissional e mais estilizado.
 * @version 1.1.0
-* update /**
-* @name Discord Rebrand
-* @author bolinho
-* @description Deixa o Discord com um ar profissional e mais estilizado.
-* @version 1.1.0
 * update https://raw.githubusercontent.com/bolinho-pixel/theme-collection/main/rebrand.theme.css
-*/
-
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
-@import "https://nyri4.github.io/Discolored/main.css";
-@import url("https://discordstyles.github.io/RadialStatus/base.css");
-@import url('https://mr-miner1.github.io/Better-Badges/src/compiled.css');
-
-:root {
-  --settingsicons:   1; /* Adiciona ícones as configurações de servidor, usuário, etc. 1 - sim / 0 - não*/
-  
-  --rs-small-spacing: 2px; /* Espaço entre avatar e status na versão pequena (lista de membros e coisas do tipo) | PRECISA terminar em "px" */
-  --rs-medium-spacing: 3px; /* Espaço entre avatar e status na versão média (lista de amigos, user popout...) | PRECISA terminar em "px" */
-  --rs-large-spacing: 4px; /* Espaço entre avatar e status na versão grande (perfil) | PRECISA terminar em "px" */
-
-  --rs-small-width: 2px; /* Tamanho da borda do status na versão pequena (lista de membros e coisas do tipo) | PRECISA terminar em "px" */
-  --rs-medium-width: 3px; /* Tamanho da borda do status na versão média (lista de amigos, user popout...) | PRECISA terminar em "px" */
-  --rs-large-width: 4px; /* Tamanho da borda do status na versão grande (perfil) | PRECISA terminar em "px" */
-
-  --rs-avatar-shape: 50%; /* Forma do avatar em porcentagem (deixa tudo feio então não é recomendado) */
-
-  --rs-online-color: #43b581; /* Cor do online (modificar pode estragar o layout) */
-  --rs-idle-color: #faa61a; /* Cor do ausente (modificar pode estragar o layout) */
-  --rs-dnd-color: #f04747; /* Cor do não pertube (modificar pode estragar o layout) */
-  --rs-offline-color: #636b75; /* Cor do offline (modificar pode estragar o layout) */
-  --rs-streaming-color: #643da7; /* Cor de transmissão (modificar vai tirar todo o propósito da cor) */
-  --rs-invisible-color: #747f8d; /* Cor do invisível - Nota: isso só vai aparecer pra sua invisibilidade, na dos outros é impossível */
-  --rs-phone-color: var(--rs-online-color); /* Cor do ícone de celular (modificar vai tirar todo o propósito da cor) */
-
-  --rs-phone-visible: block; /* (não modificar - pode estragar o layout) */
-
-  --badge-size: 22px; /*tamanho dos emblemas (discord 18px, tema 22px)*/
-  --badge-margin: 1.5px; /*(não modificar) discord 2px, tema 1.5px*/
-  --badges-everywhere-size: 15px; /*tamanho dos emblemas se você usa "badgeseverywhere". (padrão = 15px)*/
-}
 */
 
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
